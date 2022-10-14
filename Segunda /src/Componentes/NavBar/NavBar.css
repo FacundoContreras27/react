@@ -1,0 +1,22 @@
+/*BARRA DE NAVEGACIÓN*/
+.navbar {
+    font-size: larger;
+    display: flex;
+    background-color: black;
+  }
+
+#item {
+  color: aliceblue;
+  margin:10px
+}
+  
+
+  
+  nav li {
+    display: inline;
+    font-size: larger;
+    align-self: center;
+    align-items: center;
+  }
+  
+  
